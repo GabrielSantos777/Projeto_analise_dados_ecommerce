@@ -13,7 +13,6 @@ O Dashboard final no Power BI (disponível na pasta `/reports/`) revela os segui
 | **Receita Total** | R$ 16,4 Milhões (Aprox.) | Base para o cálculo de rentabilidade. |
 | **Volume de Pedidos** | 97.500 Pedidos Únicos | Volume real de transações na base. |
 | **Ticket Médio** | R$ 167,87 (Aprox.) | Valor médio gasto por pedido. |
-| **Segmento VIP** | [Sua % de clientes VIP] | Foco para programas de retenção. |
 
 ---
 
@@ -21,7 +20,7 @@ O Dashboard final no Power BI (disponível na pasta `/reports/`) revela os segui
 
 * **Linguagem de Análise:** Python
 * **Manipulação de Dados:** Pandas, NumPy
-* **Visualização e Relatório:** Power BI (para Dashboard)
+* **Visualização e Relatório:** Power BI 
 * **Estatística:** Matplotlib, Seaborn, Análise RFM
 * **Versionamento:** Git/GitHub
 
@@ -59,7 +58,7 @@ O projeto seguiu a metodologia CRISP-DM simplificada, dividida em quatro fases p
 
 ## 🚀 Como Executar o Projeto
 
-1.  Clone o repositório: `git clone https://www.youtube.com/watch?v=X49Wz3icO3E`
+1.  Clone o repositório: `git clone https://github.com/GabrielSantos777/Projeto_analise_dados_ecommerce.git`
 2.  Crie e ative um ambiente virtual.
 3.  Instale as bibliotecas necessárias: `pip install pandas numpy matplotlib seaborn jupyter`
 4.  Execute os Notebooks na pasta `/notebooks/` em ordem (1.0, 2.0, 3.0) para replicar a análise.
